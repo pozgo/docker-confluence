@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 #### Confluence Docker
 Based on:
 
@@ -25,4 +23,3 @@ Go to localhost:8090 and follow confluence setup.
 Done :)
 
 FYI: Server ID will be generated when container starts. 
->>>>>>> 7e0f8b2... Final - All moved to one layer
